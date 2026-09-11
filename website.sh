@@ -12,4 +12,3 @@ sudo cp -r 2118_chilling_cafe/* /var/www/html/
 cd ..
 sudo rm -rf webfiles
 sudo systemctl restart apache2
-figlet done
